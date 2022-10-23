@@ -1,5 +1,6 @@
-image.png
-image.png
+![image](https://user-images.githubusercontent.com/115179685/197389784-85d16a09-5205-4a11-9093-92f8fd2e1b66.png)
+![image](https://user-images.githubusercontent.com/115179685/197389815-441caa77-5dfc-447b-bcc2-164d42be6c24.png)
+
 
 In this course, you'll learn HTML forms by building a signup page. You'll learn how to control what types of data people can type into your form, and some new CSS tools for styling your page.
     Forms are used to collect information from people who visit webpages.
